@@ -266,3 +266,9 @@ sass:
     - function-units
     - color-functions
     - abs-percent
+
+theme_settings:
+  show_blog: true
+  show_downloads: true
+  show_projects: true
+  tagline: Data Science Projects, Visualizations, and Insights
