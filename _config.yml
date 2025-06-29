@@ -104,8 +104,8 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
-    url     : /blog/ # url	
+  - title   : Projects # Label
+    url     : /projects/ # url	
   - title   : Cheatsheets
     url     : /cheatsheets
   - title   : Extras
