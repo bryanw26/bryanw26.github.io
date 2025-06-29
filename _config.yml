@@ -105,7 +105,7 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Projects # Label
-    url     : /blog/ # url	
+    url     : /projects/ # url	
   - title   : Cheatsheets
     url     : /cheatsheets
   - title   : Extras
@@ -152,7 +152,7 @@ chulapa-skin:
 
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
 paginate: 4
-paginate_path: "/blog/page:num/"
+paginate_path: "/projects/page:num/"
 paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the paginator
 
 # Collections https://jekyllrb.com/docs/step-by-step/09-collections/
@@ -193,8 +193,8 @@ defaults:
       show_author       : true
       show_breadcrumb   : true
       breadcrumb_list   :
-        - label: Blog
-          url: /blog/
+        - label: Projects
+          url: /projects/
   -
     scope:
       path: ""
