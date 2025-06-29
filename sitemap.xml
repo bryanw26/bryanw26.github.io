@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://bryanw26.github.io/cheatsheets/01-markdown-cheat-sheet</loc>
-<lastmod>2025-06-29T19:37:32+12:00</lastmod>
+<lastmod>2025-06-29T19:43:02+12:00</lastmod>
 </url>
 <url>
 <loc>https://bryanw26.github.io/cheatsheets/02-kramdown-cheat-sheet</loc>
-<lastmod>2025-06-29T19:37:32+12:00</lastmod>
+<lastmod>2025-06-29T19:43:02+12:00</lastmod>
 </url>
 <url>
 <loc>https://bryanw26.github.io/20150104_first-post/</loc>
@@ -70,7 +70,7 @@
 <lastmod>2018-02-07T00:00:00+13:00</lastmod>
 </url>
 <url>
-<loc>https://bryanw26.github.io/blog/</loc>
+<loc>https://bryanw26.github.io/projects/</loc>
 </url>
 <url>
 <loc>https://bryanw26.github.io/</loc>
@@ -82,9 +82,9 @@
 <loc>https://bryanw26.github.io/tags</loc>
 </url>
 <url>
-<loc>https://bryanw26.github.io/blog/page2/</loc>
+<loc>https://bryanw26.github.io/projects/page2/</loc>
 </url>
 <url>
-<loc>https://bryanw26.github.io/blog/page3/</loc>
+<loc>https://bryanw26.github.io/projects/page3/</loc>
 </url>
 </urlset>
