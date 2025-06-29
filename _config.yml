@@ -105,7 +105,7 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Projects # Label
-    url     : /projects/ # url	
+    url     : /blog/ # url	
   - title   : Cheatsheets
     url     : /cheatsheets
   - title   : Extras
