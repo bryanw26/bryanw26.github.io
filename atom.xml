@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://bryanw26.github.io/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://bryanw26.github.io/" rel="alternate" type="text/html" />
-	<updated>2025-06-29T19:36:18+12:00</updated>
+	<updated>2025-06-29T19:37:32+12:00</updated>
 	<id>https://bryanw26.github.io/atom.xml</id>
 	<title>Bryan White | Github Portfolio</title>
 	<subtitle>Github Portfolio</subtitle>
@@ -147,7 +147,7 @@
             &lt;/button&gt;
             &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarToggler&quot;&gt;
               &lt;ul class=&quot;navbar-nav ml-auto&quot;&gt;&lt;li class=&quot;nav-item&quot;&gt;
-                  &lt;a class=&quot;nav-link &quot; href=&quot;https://bryanw26.github.io/projects/&quot;&gt;Projects&lt;/a&gt;
+                  &lt;a class=&quot;nav-link &quot; href=&quot;https://bryanw26.github.io/blog/&quot;&gt;Projects&lt;/a&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item&quot;&gt;
                   &lt;a class=&quot;nav-link &quot; href=&quot;https://bryanw26.github.io/cheatsheets&quot;&gt;Cheatsheets&lt;/a&gt;
                 &lt;/li&gt;&lt;li class=&quot;nav-item dropdown&quot;&gt;&lt;a class=&quot;nav-link dropdown-toggle &quot; href=&quot;#&quot; id=&quot;Extras&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Extras&lt;/a&gt;
