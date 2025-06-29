@@ -106,22 +106,10 @@ navbar:
   nav:
   - title   : Projects # Label
     url     : /projects/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
-  - title   : Extras
-    child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
-  - title   : Docs
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
+  - title   : About Me
+    url     : /about/
+  - title   : Contact
+    url     : /contact/
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
@@ -195,19 +183,6 @@ defaults:
       breadcrumb_list   :
         - label: Projects
           url: /projects/
-  -
-    scope:
-      path: ""
-      type: "cheatsheet"
-    values:
-      header_type       : "hero"
-      show_bottomnavs   : true
-      show_sociallinks  : true
-      include_on_search : true
-      show_breadcrumb   : true
-      breadcrumb_list   :
-        - label: Cheatsheets
-          url: /cheatsheets
 
 
 # XX. Other settings - no need to modify
